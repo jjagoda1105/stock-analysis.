@@ -28,7 +28,6 @@ Our code was able to compare all the stocks’ volumes and starting prices based
 On the other hand, the refactored code loops through all the rows and assigns a ticker index to go through each value in the ticker array. It does not use a nested loop, instead it uses the tickerindex to run through the rows based on the ticker element, see how I introduced the ticker index in the image below. The advantage of is that the code is condensed and faster, see the run time displayed in the image below and compare it to the run time above. The disadvantage of this, is that introducing the tickerindex can introduce more bugs, which it did, and I had to solve new problems.
 
 ![code picture refactored](https://user-images.githubusercontent.com/88689043/132105992-76e006fc-17a0-421d-aa17-0de591d58f62.PNG)
-
 ![2018 runtime](https://user-images.githubusercontent.com/88689043/132106000-486cdede-c381-4581-aacf-f9bc1a1653cd.PNG)
 
 ### Analysis of Code Refactoring
