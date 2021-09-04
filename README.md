@@ -6,12 +6,12 @@
 The stock analysis provides us with a summary of all tickers and their performance for 2017 and 2018 based on their return value and the trading volume. At the beginning of this module we were presented with the raw data for every day each stock was traded. Our goal is to summarize all the tickers’ performance in the most efficient way possible, by using VBA code. We will use what we learned in module 2, to create a faster code that will summarize our tickers’ performance. 
 
 ### Analysis of ticker performance
-####2017 Stocks
+#### 2017 Stocks
 ![All Stocks 2017](https://user-images.githubusercontent.com/88689043/132105947-499814c9-877c-40a5-9e07-0d5eea82d37e.PNG)
 
 All of the tickers performed much better in 2017. DQ performed the best in 2017 based on its return of 199.4%, however in 2018 DQ performed the worst with a return of -62.5%. It is important to consider both years and all stocks when looking at the stock performance that way we can base our conclusion on all relevant factors. With that being said, we would not want to invest in DQ, because in the following year during 2018, it did not do well. We want to pick a stock that is less volatile. Let’s take a look at 2018 stocks shown below:
 
-####2018 Stocks
+#### 2018 Stocks
 ![All Stocks 2018](https://user-images.githubusercontent.com/88689043/132105940-991aa515-60fe-4165-9406-35cf93835c64.PNG)
 
 As you can see, in 2018, several stocks had a negative return, so DQ was not alone. This is why it is important to compare all the stocks to each other. We can see that several other stocks had bad performance, so it potentially could have just been a bad year for all stocks in general. ENPH had the best performance over the past two years based on the return percentage, because it was the had the highest average return for both 2017 and 2018.
